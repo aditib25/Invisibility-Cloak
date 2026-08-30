@@ -1,6 +1,10 @@
 # 🪄 Invisibility-Cloak
 A real-time computer vision project that creates an invisibility cloak effect using OpenCV and HSV color segmentation, demonstrated with a blue cloth.
 
+## Demo
+
+[Demonstration of the real-time invisibility cloak effect](./blue_invisibility_cloak.mp4)
+
 ## Project Overview
 
 The program:
